@@ -1,0 +1,6 @@
+.sign_menu{
+    width: 100%;
+    height: 128px;
+    background-image: linear-gradient(to right, #F05D61, white, white, white, white, white, white, white, white, white, white );
+    opacity: 0.3;
+}
